@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Music, Youtube } from "lucide-react";
+import { Music, Youtube, Users } from "lucide-react";
 
 const Footer = () => {
   return (
